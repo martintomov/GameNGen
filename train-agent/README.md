@@ -1,9 +1,6 @@
 # train agent
 
-[VIZDoomBot](https://github.com/ViZDoomBot/stable-baselines-agent)
-
-check out ```stable-baselines-agent/simpler_basic/train.py``` as a starting point for training the agent.
-necessary to create a multitude of variations of scenarios and run the training - 8 runs in parallel.
+[https://github.com/Farama-Foundation/ViZDoom/tree/master/examples/python](https://github.com/Farama-Foundation/ViZDoom/tree/master/examples/python)
 
 ### Configs from the paper:
 
@@ -20,7 +17,7 @@ necessary to create a multitude of variations of scenarios and run the training 
 - learning rate: 1e-4
 - environment steps: 10M
 
-### Reward Function descriptionfrom the paper:
+### Reward Function description from the paper:
 
 The RL-agent’s reward function, the only part of our method which is specific to the game Doom, is a sum of the following conditions:
 
