@@ -1,7 +1,5 @@
 # train agent
 
-[https://github.com/Farama-Foundation/ViZDoom/tree/master/examples/python](https://github.com/Farama-Foundation/ViZDoom/tree/master/examples/python)
-
 ### Configs from the paper:
 
 - feature network: simple CNN
